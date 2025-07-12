@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:camera: I'm an advertising & portrait photographer  
+* :bulb: I worked as an art director *(advertising)*
+* :artist: used to be a voice actor
+* :video_game: love to mod videogames
+
+:bar_chart: Currently a data analytics & ML student :abacus:
+
+<!--### my art website:
+*currently in WIP*
+https://shields.io/badges/website-->
+
+<!--### my data projects:
+
+<!--### my deep learning projects-->
+
+
+
+
