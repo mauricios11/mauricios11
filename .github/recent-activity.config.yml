@@ -1,0 +1,12 @@
+max activities: 10
+include:
+  - stars
+  - issues
+  - pull_requests
+  - commits
+exclude_repos:
+  - mauricios11
+ignore_private: true
+ignore_forks: true
+ignore_archived: true
+ignore_disabled: true
