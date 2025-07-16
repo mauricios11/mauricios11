@@ -12,8 +12,20 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4.2.2
-      
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+      - name: Git configuration for automated commits
+        # "|" --> multiline shell script
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - uses: Readme-Workflows/recent-activity@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & push if changes
+        run: |
+          git add README.md
+          git diff --cached --quiet || git commit -m "docs: update README with recent activity [skip ci]"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
