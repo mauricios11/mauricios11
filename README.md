@@ -30,12 +30,11 @@ Here are some ideas to get you started:
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Wednesday, July 16th, 2025, 3:39:40 AM
 
-### Hobbies 
-* :artist: Used to be a voice actor
-* :paintbrush:Ilustrtion, FeatherWork  & 3D modeling 
+### :palm_tree: Hobbies 
+* :artist: Used to be a **voice actor**
+* :paintbrush: **Ilustration**, [**FeatherWork**](https://en.wikipedia.org/wiki/Featherwork) & 3D modeling 
 * :video_game: Love to mod videogames
 * :blue_heart: Snowboard
-
 
 <!--### my art website:
 *currently in WIP*
