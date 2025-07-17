@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 :camera: I'm an advertising & portrait photographer  
 * :bulb: I worked as an art director *(advertising)*
 
-:bar_chart: Currently a data analytics & ML student :abacus:
+:bar_chart: **Currently a data analytics & ML student** :abacus:
 
 ### :person_fencing: Recent activity
 <!--RECENT_ACTIVITY:start-->
