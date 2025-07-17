@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 :camera: I'm an advertising & portrait photographer  
 * :bulb: I worked as an art director *(advertising)*
-* :artist: used to be a voice actor
-* :video_game: love to mod videogames
+* :artist: Used to be a voice actor
+* :video_game: Love to mod videogames
+* :blue_heart: Snowboard
 
 :bar_chart: Currently a data analytics & ML student :abacus:
 
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Wednesday, July 16th, 2025, 3:39:40 AM
-<!--RECENT_ACTIVITY:last_update_end-->
+
 
 <!--### my art website:
 *currently in WIP*
